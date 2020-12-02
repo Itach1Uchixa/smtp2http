@@ -9,7 +9,7 @@ import (
 	"net/mail"
 	"time"
 
-	"github.com/alash3al/go-smtpsrv/v3"
+	"github.com/Itach1Uchixa/go-smtpsrv@no-extensions"
 	"github.com/go-resty/resty/v2"
 )
 
